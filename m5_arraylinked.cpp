@@ -36,6 +36,7 @@ int main (){
    	cout << "lokomotif ke \t: " << masinis->next << endl;
    	masinis = masinis->next;
    }
+   //hai
 	return 0;
 }
 
